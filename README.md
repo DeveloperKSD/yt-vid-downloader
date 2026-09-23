@@ -38,7 +38,8 @@ A Python/Tkinter app to download YouTube videos or audio, with quality selection
 6. Temp files are cleaned up after each merge/conversion.
 7. Failed downloads are retried up to 3 times before giving up, with clear messages for private/age-restricted/unavailable videos.
 
-##IMAGES
+## IMAGES
+
 <img width="534" height="543" alt="image" src="https://github.com/user-attachments/assets/b3478f87-07a3-44d0-8d94-9253a9c1ad2f" />
 
 
