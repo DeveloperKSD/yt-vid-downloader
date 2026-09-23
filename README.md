@@ -54,7 +54,8 @@ A simple Python script to download YouTube videos in the highest available quali
 - Basic error handling patterns to catch and surface real failure reasons instead of generic crashes.
 - Sanitizing filenames to strip characters invalid on Windows filesystems.
 
-
+## IMAGES
 <img width="1782" height="806" alt="image" src="https://github.com/user-attachments/assets/881e967e-f183-4c5e-983f-e24a7334b01d" />
+
 <img width="1781" height="804" alt="image" src="https://github.com/user-attachments/assets/247bc977-ed02-4b9b-bdb8-86df68ec791d" />
 
