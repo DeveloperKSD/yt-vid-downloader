@@ -13,7 +13,7 @@ A simple Python script to download YouTube videos in the highest available quali
 
 ## How to run
 
-'''bash'''
+'''bash
 pdad
 '''
 
